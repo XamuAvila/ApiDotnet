@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj",
+      "projectUniqueName": "c:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj",
+      "projectPath": "c:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\samuel.fernandes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\obj\\",
+      "outputPath": "c:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
