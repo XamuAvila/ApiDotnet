@@ -1,5 +1,5 @@
 # Comandos básicos para a instalação
-#**Comandos básicos**
+**Comandos básicos**
 
 dotnet new webapi -n **NOME** -o **OUTPUT FOLDER** -f **Sdk (netcoreapp3.1)**
 
