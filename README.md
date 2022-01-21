@@ -12,3 +12,5 @@ dotnet sln remove **NOME DA PASTA A SER REMOVIDA NA SLN**
 dotnet tool install --global dotnet-ef
 
 dotnet ef migrations add **NomeDaMigration**
+
+ dotnet ef database update
