@@ -10,6 +10,11 @@ namespace Api.Application.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
+        private IUserService _service;
+        public UsersController(IUserService service)
+        {
+            _service = service;
+        }
         [HttpGet]
         public async Task<ActionResult> GetAll([FromServices] IUserService service)
         {
