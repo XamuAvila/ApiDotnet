@@ -1,0 +1,16 @@
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
