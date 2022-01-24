@@ -66,4 +66,8 @@ C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netc
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
