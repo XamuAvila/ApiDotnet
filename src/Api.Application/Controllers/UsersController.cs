@@ -31,5 +31,12 @@ namespace Api.Application.Controllers
                 return StatusCode((int)HttpStatusCode.InternalServerError, ex.Message);
             }
         }
+
+        [HttpGet]
+        [Route("{id}", Name = "GetWithId")]
+        public async Task<ActionResult> Get()
+        {
+
+        }
     }
 }
