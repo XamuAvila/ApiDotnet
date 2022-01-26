@@ -53,6 +53,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.5.1, )"
@@ -274,6 +278,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -338,6 +348,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

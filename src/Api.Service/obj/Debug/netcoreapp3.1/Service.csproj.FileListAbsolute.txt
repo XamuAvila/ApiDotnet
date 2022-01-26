@@ -12,4 +12,3 @@ C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Service\bin\Debug\netcorea
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
-C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

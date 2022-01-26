@@ -71,4 +71,10 @@ C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netc
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
