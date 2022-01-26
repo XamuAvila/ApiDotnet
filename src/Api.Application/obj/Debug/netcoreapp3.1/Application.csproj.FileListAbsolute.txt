@@ -71,3 +71,4 @@ C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netc
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete

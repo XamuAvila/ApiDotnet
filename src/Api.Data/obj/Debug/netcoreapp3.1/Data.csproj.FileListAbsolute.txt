@@ -13,3 +13,4 @@ C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
 C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\samuel.fernandes\Documents\ApiDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
