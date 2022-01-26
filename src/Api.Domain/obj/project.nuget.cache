@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tfDz0yk4fHxbEYLmu66GFXm3SDPxZzv/xubQI33e2xrBfEMMqOeV7daLXXklUbg93xqKMI9mvhNajNvVOBdKhg==",
+  "dgSpecHash": "wUVSM89CZc+wJ/xol+Ko6dcVr8Fz/wZUe5mBIKVVRvhAyew+BJjjujE/VKsOmt+FIV6MWYurhbCTGVxuGg0l6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Estudos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512"
+  ],
   "logs": []
 }

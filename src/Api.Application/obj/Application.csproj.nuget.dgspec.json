@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Application\\Application.csproj": {}
+    "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Application\\Application.csproj": {
+    "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\samuel.fernandes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Application\\obj\\",
+        "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Estudos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\samuel.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,14 +28,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj"
+              "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Service\\Service.csproj"
+              "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -68,6 +65,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.3, 3.1.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x86",
+              "version": "[3.1.5, 3.1.5]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -76,24 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\samuel.fernandes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Estudos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\samuel.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,14 +111,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Data\\Data.csproj"
+              "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Service\\Service.csproj"
+              "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -144,29 +148,32 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.3, 3.1.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Data\\Data.csproj": {
+    "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\samuel.fernandes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Data\\obj\\",
+        "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Estudos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\samuel.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -180,8 +187,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -227,29 +234,32 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.3, 3.1.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\samuel.fernandes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Estudos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\samuel.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -284,29 +294,32 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.3, 3.1.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Service\\Service.csproj": {
+    "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\samuel.fernandes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Service\\obj\\",
+        "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\Estudos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\samuel.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Estudos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -320,11 +333,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Data\\Data.csproj"
+              "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\samuel.fernandes\\Documents\\ApiDotnet\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Estudos\\Desktop\\ApiDotnet\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -348,12 +361,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.3, 3.1.3]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
